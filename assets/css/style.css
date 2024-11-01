@@ -1,0 +1,7 @@
+img {
+    user-drag: none;
+    -webkit-user-drag: none;
+    -moz-user-drag: none;
+    -ms-user-drag: none;
+    pointer-events: none;
+}
